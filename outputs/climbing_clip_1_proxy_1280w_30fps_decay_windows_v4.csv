@@ -1,0 +1,2 @@
+t_start,t_end,valid_frame_fraction,mean_move_body,mean_move_ema,mean_move_jerk,mean_move_variability,pause_fraction_valid,micro_pause_count,micro_pause_time_s,mean_pose_quality,mean_root_speed,hip_y_slope_per_s,sloppiness_index,stability_index
+11.4,41.4,0.8320802005012531,0.015334305562799886,0.012989312156089316,0.03633418578128452,0.00664863716997673,0.8975903614457831,5,22.46666666666666,0.6822779182354012,0.1548238653561494,-0.012199335211472451,,

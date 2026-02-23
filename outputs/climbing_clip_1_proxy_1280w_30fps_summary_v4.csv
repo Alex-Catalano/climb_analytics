@@ -1,0 +1,2 @@
+video,duration_s,active_climb_duration_s,micro_pause_time_s,micro_pause_count,active_move_time_s,avg_move_body_active,avg_move_ema_active,avg_jerk_active,avg_variability_active,best_hand_y_min_active,best_hip_y_min_active,pose_detect_rate,valid_active_frame_fraction,analysis_fps,device,model,version
+climbing_clip_1_proxy_1280w_30fps.mp4,45.73,30.0,22.47,5,7.53,0.015334,0.01296,0.036262,0.006654,0.0907,0.2424,0.55,0.83,15.0,mps,yolov8n-pose.pt,v4.2
