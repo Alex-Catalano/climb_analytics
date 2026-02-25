@@ -1,0 +1,10 @@
+# ByteTrack tuning for single-climber videos with short occlusions and fast moves.
+# Format follows Ultralytics tracker config keys.
+
+tracker_type: bytetrack
+track_high_thresh: 0.22
+track_low_thresh: 0.05
+new_track_thresh: 0.22
+track_buffer: 120
+match_thresh: 0.80
+fuse_score: true

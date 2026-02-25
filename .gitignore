@@ -6,4 +6,10 @@ __pycache__/
 *.MOV
 *.avi
 *.mp4
+!tests/fixtures/videos/*.mp4
 *.db
+outputs_demo_v4/
+outputs_v7*/
+outputs_cmp*/
+outputs_v8*/
+.mpl-cache/
